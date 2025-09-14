@@ -1,5 +1,4 @@
-## Hi there 👋
-# Am Francisco Rodrigues Gomes
+# 👋 Hi, I'm Francisco Rodrigues Gomes
 
 🔧 **Builder of ideas → from MVPs to global projects**  
 🚀 Passion for coding, AI and new infrastructures  
@@ -25,9 +24,16 @@
 ---
 
 ## 🌍 About Me
-- Brazilian + Portuguese citizen  
+- Brazilian + Portuguese citizen  + Green Card Holder 
 - Explorer of **global collaboration & digital culture**  
 - Always exploring how complexity can be transformed into code  
+
+---
+
+## ✨ Extended Description
+Sou Francisco Rodrigues Gomes, empreendedor e fundador de startups, com trajetória dedicada à construção de soluções inovadoras.  
+Atuei como professor de **Empreendedorismo, Inovação e Estratégia** na FAAP, experiência que fortaleceu minha visão prática sobre transformação de ideias em negócios reais.  
+Hoje, sigo explorando **IA, automação e MVPs** como formas de criar impacto e gerar valor em escala global.  
 
 ---
 
